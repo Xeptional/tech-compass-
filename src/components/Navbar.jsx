@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-scroll';
+import logo from 'src\\assets\\logo.png';
 import '../component.css';
 
 const Navbar = () => {
@@ -28,7 +29,7 @@ const Navbar = () => {
   return (
     <nav className={`navbar flex ${scrolled ? 'scrolled' : ''}`}>
       <div className="navbar-container flex">
-        <img className='logo' src="src\assets\logo.png" alt="TechCompass" />
+        <img className='logo' src={logo} alt="TechCompass" />
         <div className="hamburger" onClick={toggleMenu}>
           ☰
         </div>

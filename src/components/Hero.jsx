@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="hero flex-center" id="hero">
       <div className="hero-content">
-        <h1>Tech<span className='name'>Compass</span> Career Fair 2024</h1>
+        <h1>Tech<span className='name'>Compass</span> Unveils</h1>
         <div className="details">
           <p>2nd November</p>
           <p>10:00 AM</p>
