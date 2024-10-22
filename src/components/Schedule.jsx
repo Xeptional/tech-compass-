@@ -33,7 +33,7 @@ const Schedule = () => {
     },
     { 
       time: '1:30 PM - 1:40 PM', 
-      activity: 'break', 
+      activity: 'Lunch', 
       description: ''
     },
     { 

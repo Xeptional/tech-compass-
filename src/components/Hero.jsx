@@ -11,7 +11,14 @@ const Hero = () => {
           <p>10:00 AM</p>
           <p>KAAF Auditorium</p>
         </div>
-        <button className="register-button">Register Now</button>
+        <a 
+          href="https://forms.gle/rMGonKJZXiYHBBveA"
+          target='_blank'
+          rel='noopener noreferrer'
+          className='register-button'
+          >
+            Register now
+          </a>
       </div>
     </section>
   );
