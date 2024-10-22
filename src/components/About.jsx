@@ -6,7 +6,7 @@ const About = () => {
     <section className="about" id='about'>
       <h2>About</h2>
       <p>
-        The <span className='bold'>Tech<span className='name'>Compass</span> Career Fair</span> is an exciting opportunity that will connect over 200 
+        <span className='bold'>Tech<span className='name'>Compass</span> Unveils</span> is an exciting opportunity that will connect over 200 
         talented Computer Science undergraduates from the University of Ibadan with 
         leading tech companies, offering a platform for career growth, internship 
         opportunities, and industry engagement. 

@@ -82,6 +82,9 @@
   padding: 20px 0;
   font-weight: 800;
 }
+.details p {
+  text-align: center;
+}
 .register-button {
   transition: background-color 0.3s ease;
   background-color: var(--accent);

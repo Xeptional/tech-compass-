@@ -12,6 +12,8 @@ body {
   line-height: 1.6;                  
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -71,6 +73,7 @@ p {
 }
 section {
   margin-bottom: 30px;
+  max-width: 100vw;
 }
 
 /* Responsive Utilities */

@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p>&copy; {new Date().getFullYear()} TechCompass Career Fair. All Rights Reserved.</p>
+        <p>&copy; {new Date().getFullYear()} TechCompass Unveils. All Rights Reserved.</p>
         <div className="social-links">
           <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer">Twitter</a>
           <a href="https://facebook.com/" target="_blank" rel="noopener noreferrer">Facebook</a>
