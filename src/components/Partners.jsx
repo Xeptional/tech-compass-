@@ -1,5 +1,5 @@
 import React from 'react';
-// import hyperspace from '../assets/hyperspace.jpg';
+import hyperspace from '../assets/hyperspace.jpg';
 import crop2cash from '../assets/crop2cash.svg';
 import deimos from '../assets/deimos.svg';
 import gmind from '../assets/gmind.png';
@@ -9,7 +9,7 @@ import tombell from '../assets/tombell.jpg';
 import '../component.css';
 
 
-const p1Logos = [crop2cash, deimos, gmind];
+const p1Logos = [hyperspace, crop2cash, deimos, gmind];
 const p2Logos = [octave, solab, tombell];
 
 const SponsorsPartners = () => {
