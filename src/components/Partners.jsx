@@ -1,5 +1,5 @@
 import React from 'react';
-import hyperspace from '../assets/hyperspace.jpg';
+import hyperspace from '../assets/h.jpg';
 import crop2cash from '../assets/crop2cash.svg';
 import deimos from '../assets/deimos.svg';
 import gmind from '../assets/gmind.png';
