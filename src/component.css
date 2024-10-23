@@ -247,7 +247,7 @@
   display: flex;
   justify-content: center;
   gap: 30px; 
-  /* align-items: center; */
+  align-items: center;
   flex-direction: row; 
   margin: 10px;
 }
@@ -260,8 +260,8 @@
 
 /* Responsive styles */
 @media (max-width: 768px) {
-  /* sponsors section  */
-  .sponsors-partners h2 {
+  /* partners section  */
+  .partners h2 {
     font-size: 2rem; /* Adjust heading size */
   }
 
@@ -362,7 +362,7 @@
   .footer a {
     font-size: 0.8rem;
   }
-  .sponsors-partners h2 {
+  .partners h2 {
     font-size: 1.8rem; 
   }
 

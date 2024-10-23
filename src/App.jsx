@@ -3,7 +3,7 @@ import Hero from './components/Hero';
 import About from './components/About';
 import Speakers from './components/Speakers';
 import Schedule from './components/Schedule';
-import SponsorsPartners from './components/SponsorsPartners';
+import Partners from './components/Partners';
 import Contact from './components/Contact';
 import Navbar from './components/Navbar'; 
 import Footer from './components/Footer';
@@ -17,7 +17,7 @@ function App() {
       <About />
       <Speakers />
       <Schedule />
-      <SponsorsPartners />
+      <Partners />
       <Contact />
       <Footer />
     </div>
