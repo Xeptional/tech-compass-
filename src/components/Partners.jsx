@@ -6,8 +6,8 @@ import gmind from '../assets/gmind.png';
 import octave from '../assets/octave.png';
 import solab from '../assets/solab.svg';
 import tombell from '../assets/tombell.jpg';
-
 import '../component.css';
+
 
 const p1Logos = [hyperspace, crop2cash, deimos, gmind];
 const p2Logos = [octave, solab, tombell];
