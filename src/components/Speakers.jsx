@@ -1,6 +1,6 @@
 import React from 'react';
-// import s1 from 'src\\assets\\Oluwatosin.jpg';
-// import s2 from 'src\\assets\\Oluwatosin.jpg';
+import s1 from '../assets/Oluwatosin.jpg';
+import s2 from '../assets/olorunfemi.jpeg';
 import '../component.css';
 
 const Speakers = () => {
@@ -9,13 +9,13 @@ const Speakers = () => {
       name: 'Olorunfemi Oluwaniran',
       bio: 'Chief Technical Officer - AWA Bike',
       twitter: 'https://twitter.com/johndoe',
-      image: ""
+      image: s2
     },
     {
       name: 'Oluwatosin Adesua',
       bio: 'Senior System Engineer - Interswitch Group',
       twitter: 'https://twitter.com/johndoe',
-      image: ""
+      image: s1
     }
   ];
 

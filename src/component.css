@@ -157,7 +157,7 @@
 }
 .speaker-image {
   width: 100%;
-  height: auto;
+  height: 300px;
   border-radius: 15px; 
   margin-bottom: 15px;
 }
@@ -260,9 +260,15 @@
 
 /* Responsive styles */
 @media (max-width: 768px) {
+  body {
+    overflow-x: hidden;
+  }
   /* partners section  */
   .partners h2 {
     font-size: 2rem; /* Adjust heading size */
+  }
+  .logos-grid {
+    flex-direction: column;
   }
 
   .logos-grid img {
